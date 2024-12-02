@@ -3,6 +3,7 @@
   --foreground: #1c1515;
 }
 
+
 body {
   color: var(--foreground);
   background: var(--background);
@@ -38,14 +39,14 @@ body {
 }
 
 .container .header .settingButton{
-  background-image: url('components/para_log.jpg');
+  background-image: url('components/fotos/para_log.jpg');
   background-size: 80px 80px;
   background-repeat: no-repeat; /* Evite la répétition de l'image */
   background-position: left center;
 }
 
 .container .header .Regelnbutton{
-  background-image: url('components/regel_log.jpg.png');
+  background-image: url('components/fotos/regel_log.jpg.png');
   background-size: 130px 80px;
   background-repeat: no-repeat; /* Evite la répétition de l'image */
   background-position: left center; 
