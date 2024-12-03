@@ -1,11 +1,8 @@
 import Image from "next/image";
 import welcomelog from './fotos/welcomelog.jpg';
-import { Player } from "./interface";
-import { useState } from "react";
 
 
 export default function Login(): JSX.Element{
-    const [player, setPlayer] = useState<Player>();
 
     return (
 
